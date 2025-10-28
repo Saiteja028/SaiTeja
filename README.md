@@ -70,13 +70,13 @@ I am skilled in building scalable RESTful APIs, cloud-based applications, and co
 
 ## 📌 Featured Projects
 
-🔹 **[Stock Tracking Platform (Full-Stack MERN)]([PASTE_YOUR_PROJECT_REPO_LINK_HERE])**  
+🔹 **[Stock Tracking Platform (Full-Stack MERN)](https://github.com/Saiteja028/invexo.git)**  
 * Built a full-stack stock portfolio manager using **React.js, Node.js/Express, and MongoDB**.  
 * Secured the application with **JWT authentication** and session management.  
 * Integrated **Alpha Vantage API** for live stock data and P&L tracking.  
 * Deployed the backend on **AWS EC2** and **Render** with PM2.  
 
-🔹 **[Stock Tracking Application (Microservices)]([PASTE_YOUR_PROJECT_REPO_LINK_HERE])**  
+🔹 **[Stock Tracking Application (Microservices)](https://github.com/Saiteja028/StocksTracker.git)**  
 * Designed a microservices system using **Spring Boot** (User, Stock, and Auth services).  
 * Implemented role-based access control with **JWT security**.  
 * Centralized routing and authentication using an **API Gateway**.  
